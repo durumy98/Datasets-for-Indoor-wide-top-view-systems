@@ -1,4 +1,4 @@
-# Datasets-for-Indoor-wide-top-view-systems
+# Datasets for Indoor Wide Top-view systems
 
 ## 1) IR Tracking Dataset
 
