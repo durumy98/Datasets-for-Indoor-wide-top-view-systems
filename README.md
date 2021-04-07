@@ -11,7 +11,7 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250">
 
 
-## 3) Description 
+## 3) Description and Downloads
 
 <table border="1">
 	<th>Contents</th>
@@ -35,12 +35,7 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 	</tr><!-- 두번째 줄 끝 -->
 </table>
 
-### (IR and EO(RGB) datasets for fusion base panorama imaging)
-### (Location: Kyungpook National University(KNU) Korea)
+## 4) Papers
 
-<https://drive.google.com/drive/folders/1j6dBubfW83DB7gz5OCmlxQ1AojwGbhci?usp=sharing>
-
-### 1) KNU IT building
-### 2) KNU IT8_1
-### 3) KNU IT8_2
-### 4) KNU ITCenter
+### [1] Lee, S. J., Kim, B. H., Kim, Y. H., & Kim, M. Y. (2019, September). Spatial domain analysis based on human position and movement recognition for the top-view imaging systems. In Applications of Digital Image Processing XLII (Vol. 11137, p. 111371U). International Society for Optics and Photonics.
+### [2] Lee, S. J., Kim, B. H., & Kim, M. Y. Multi-Saliency Map and Machine Learning Based Human Detection for The Embedded Top-View Image (Ongoing review process as Access-2020-62790)
