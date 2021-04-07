@@ -13,6 +13,20 @@ The Example of Datasets
 
 
 ## 2) Panorama dataset for EO(RGB) and IR fusion
+
+<table border="1">
+	<th>테이블</th>
+	<th>만들기</th>
+	<tr><!-- 첫번째 줄 시작 -->
+	    <td>첫번째 칸</td>
+	    <td>두번째 칸</td>
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>첫번째 칸</td>
+	    <td>두번째 칸</td>
+	</tr><!-- 두번째 줄 끝 -->
+</table>
+
 ### (IR and EO(RGB) datasets for fusion base panorama imaging)
 ### (Location: Kyungpook National University(KNU) Korea)
 
