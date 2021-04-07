@@ -3,6 +3,7 @@
 ## 1) The Embedded Top-view Camera System 
 
 The wide top-view vision system appears in a symmetrical shape around the vanishing point of the image. It can be seen that the human shape appears symmetrically in the acquired images. (Left: vision system installation, Right: examples of acquired images)
+
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250"> <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_data_examples.png" height="250">
 
 ## 2) Examples of Datasets
