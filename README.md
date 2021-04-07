@@ -2,11 +2,14 @@
 
 ## 1) Descriptions 
 
-The embedded top-view camera system and example of datasets
+The Embedded Top-view Camera System 
 
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250"> <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_data_examples.png" height="250">
 
-A Sample frame #0001
+
+The Example of Datasets
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250">
+
 
 ## 2) Panorama dataset for EO(RGB) and IR fusion
 ### (IR and EO(RGB) datasets for fusion base panorama imaging)
