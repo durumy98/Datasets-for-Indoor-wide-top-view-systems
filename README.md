@@ -37,5 +37,6 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 
 ## 4) Papers
 
-#### [1] Lee, S. J., Kim, B. H., Kim, Y. H., & Kim, M. Y. (2019, September). Spatial domain analysis based on human position and movement recognition for the top-view imaging systems. In Applications of Digital Image Processing XLII (Vol. 11137, p. 111371U). International Society for Optics and Photonics.
+#### [1] Lee, S. J., Kim, B. H., Kim, Y. H., & Kim, M. Y. (2019, September). Spatial domain analysis based on human position and movement recognition for the top-view imaging systems. In Applications of Digital Image Processing XLII (Vol. 11137, p. 111371U). International Society for Optics and Photonics.<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11137/111371U/Spatial-domain-analysis-based-on-human-position-and-movement-recognition/10.1117/12.2534909.short?SSO=1">Download</a>
+
 #### [2] Lee, S. J., Kim, B. H., & Kim, M. Y. Multi-Saliency Map and Machine Learning Based Human Detection for The Embedded Top-View Image (Ongoing review process as Access-2020-62790)
