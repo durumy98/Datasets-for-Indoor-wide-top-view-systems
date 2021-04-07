@@ -4,7 +4,7 @@
 
 The embedded top-view camera system and example of datasets
 
-![text](https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/embedded_top-view_system.png)
+![text](https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_data_examples.png?raw=true)
 ![text](https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/embedded_top-view_data_examples.png)
  
 A Sample frame #0001
