@@ -6,7 +6,7 @@
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250"> <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_data_examples.png" height="250">
 <br>
 <figcaption>Caption goes here</figcaption>
-/figure>
+</figure>
 
 The Example of Datasets
 
