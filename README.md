@@ -15,20 +15,23 @@ The Example of Datasets
 ## 2) Panorama dataset for EO(RGB) and IR fusion
 
 <table border="1">
-	<th>테이블</th>
-	<th>만들기</th>
+	<th>Contents</th>
+	<th>Name</th>
+	<th>Examples</th>
+	<th>Size</th>
+	<th>Links</th>
 	<tr><!-- 첫번째 줄 시작 -->
-	    <td>Contents</td>
-	    <td>Name</td>
-	    <td>Examples</td>
-	    <td>Size</td>
-	    <td>Links</td>		
-	</tr><!-- 첫번째 줄 끝 -->
-	<tr><!-- 두번째 줄 시작 -->
 	    <td>Training Dataset for DL</td>
 	    <td>File_DL</td>
 	    <td>8390</td>
-	    <td>561MB</td>
+	    <td>252MB</td>
+	    <td><a href="/about/about_team.htm">Download</a></td>		
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>Training Dataset for SVM</td>
+	    <td>File_SVM</td>
+	    <td>6390</td>
+	    <td>361MB</td>
 	    <td><a href="/about/about_team.htm">Download</a></td>
 	</tr><!-- 두번째 줄 끝 -->
 </table>
