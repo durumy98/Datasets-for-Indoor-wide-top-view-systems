@@ -61,11 +61,16 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 </table>
 
 
-## 4) A method of the Multi-Saliency Map based Human Detection
+## 4) A method of the Multi-Saliency Map based Human Detection (MSMHD)
 
-The architecture and performance of the Multi-Saliency Map based Human Detection model
+The architecture and performance of the MSMHD model
 
-<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/architecture_proposed.png" height="250"> <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/performance_proposed.png" height="250">
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/architecture_proposed.png" height="470"> 
+
+
+The performance of the MSMHD model
+
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/performance_proposed.png" height="250">
 
 
 ## 5) References
