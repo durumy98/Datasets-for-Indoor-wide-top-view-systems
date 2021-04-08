@@ -12,7 +12,7 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 ### Camera resolution : 640 x 480 
 ### Field of View : Horizontal 
 
-<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="500">
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="450">
 
 
 ## 3) Description and Downloads
