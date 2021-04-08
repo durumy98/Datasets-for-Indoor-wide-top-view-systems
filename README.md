@@ -61,8 +61,8 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 	</tr><!-- 다섯번째 줄 끝 -->
 </table>
 
-
-
+</p>
+</p>
 
 # Multi-Saliency Map based Human Detection (MSMHD)
 
