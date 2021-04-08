@@ -12,7 +12,7 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 - Camera resolution : 640 x 480
 - Field of View : Horizontal 
 
-<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="480">
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="470">
 
 
 ## 3) Description and Downloads
@@ -60,7 +60,13 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 	</tr><!-- 다섯번째 줄 끝 -->
 </table>
 
-## 4) Papers
+
+## 4) Performance of the Multi-Saliency Map based Human Detection
+
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="470">
+
+
+## 5) References
 
 #### [1] Lee, S. J., Kim, B. H., Kim, Y. H., & Kim, M. Y. (2019, September). Spatial domain analysis based on human position and movement recognition for the top-view imaging systems. In Applications of Digital Image Processing XLII (Vol. 11137, p. 111371U). International Society for Optics and Photonics. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11137/111371U/Spatial-domain-analysis-based-on-human-position-and-movement-recognition/10.1117/12.2534909.short?SSO=1">[Link]</a>
 
