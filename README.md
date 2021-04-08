@@ -6,12 +6,13 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250"> <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_data_examples.png" height="250">
 
+
 ## 2) Examples of Datasets
 
 ### Camera resolution : 640 x 480 
 ### Field of View : Horizontal 
 
-<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/embedded_top-view_system.png" height="250">
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="500">
 
 
 ## 3) Description and Downloads
