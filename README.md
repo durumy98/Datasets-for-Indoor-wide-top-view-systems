@@ -62,9 +62,10 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 </table>
 
 </p>
+
 </p>
 
-# Multi-Saliency Map based Human Detection (MSMHD)
+## 4) Multi-Saliency Map based Human Detection (MSMHD)
 
 The architecture and performance of the MSMHD model
 
