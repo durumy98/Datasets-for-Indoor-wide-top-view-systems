@@ -9,9 +9,10 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 
 ## 2) Examples of Datasets
 
-Camera resolution : 640 x 480, Field of View : Horizontal 
+- Camera resolution : 640 x 480
+- Field of View : Horizontal 
 
-<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="450">
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="480">
 
 
 ## 3) Description and Downloads
@@ -48,14 +49,14 @@ Camera resolution : 640 x 480, Field of View : Horizontal
 	    <td>test_images.zip</td>
 	    <td>1479</td>
 	    <td>121MB</td>
-	    <td><a href="/about/about_team.htm">Download</a></td>
+	    <td><a href="https://drive.google.com/u/0/uc?id=1k6vLQhJ7k2Gg0rJ6-Jq-BiZ0seT_cdvy&export=download">Download</a></td>
 	</tr><!-- 네번째 줄 끝 -->
  	<tr><!-- 다섯번째 줄 시작 -->
-	    <td>Training Dataset for SVM</td>
-	    <td>File_SVM</td>
-	    <td>6390</td>
-	    <td>361MB</td>
-	    <td><a href="/about/about_team.htm">Download</a></td>
+	    <td>Test Dataset Labels</td>
+	    <td>test_lables.zip</td>
+	    <td>1479</td>
+	    <td>120KB</td>
+	    <td><a href="https://drive.google.com/file/d/1wsi-msDlSEhETyRZbNPJSjrQuCiJgp3z/view">Download</a></td>
 	</tr><!-- 다섯번째 줄 끝 -->
 </table>
 
