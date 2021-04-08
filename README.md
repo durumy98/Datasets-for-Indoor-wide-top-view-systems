@@ -64,7 +64,7 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 
 The architecture and performance of the MSMHD model
 
-<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/architecture_proposed.png" height="470">   <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/performance_proposed.png" height="250">
+<img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/architecture_proposed.png" height="470">   <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/performance_proposed.png" height="300">
 
 
 ## References
