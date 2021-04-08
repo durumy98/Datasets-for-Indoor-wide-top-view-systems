@@ -1,4 +1,4 @@
-# Indoor Wide Top-view Datasets
+# Datasets: Indoor Wide Top-view for human detection 
 
 ## 1) The Embedded Top-view Camera System 
 
@@ -62,14 +62,14 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 </table>
 
 
-## 4) A method of the Multi-Saliency Map based Human Detection (MSMHD)
+# A proposed method: Multi-Saliency Map based Human Detection (MSMHD)
 
 The architecture and performance of the MSMHD model
 
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/architecture_proposed.png" height="470">   <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/performance_proposed.png" height="250">
 
 
-## 5) References
+## References
 
 #### [1] Lee, S. J., Kim, B. H., Kim, Y. H., & Kim, M. Y. (2019, September). Spatial domain analysis based on human position and movement recognition for the top-view imaging systems. In Applications of Digital Image Processing XLII (Vol. 11137, p. 111371U). International Society for Optics and Photonics. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11137/111371U/Spatial-domain-analysis-based-on-human-position-and-movement-recognition/10.1117/12.2534909.short?SSO=1">[Link]</a>
 
