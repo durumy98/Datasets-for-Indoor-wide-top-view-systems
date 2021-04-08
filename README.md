@@ -9,8 +9,7 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 
 ## 2) Examples of Datasets
 
-### Camera resolution : 640 x 480 
-### Field of View : Horizontal 
+Camera resolution : 640 x 480, Field of View : Horizontal 
 
 <img src="https://github.com/durumy98/Datasets-for-Indoor-wide-top-view-systems/blob/main/dataset_examples.JPG" height="450">
 
@@ -24,33 +23,40 @@ The wide top-view vision system appears in a symmetrical shape around the vanish
 	<th>Size</th>
 	<th>Links</th>
 	<tr><!-- 첫번째 줄 시작 -->
-	    <td>Training Dataset for DL</td>
-	    <td>File_DL</td>
-	    <td>8390</td>
-	    <td>252MB</td>
-	    <td><a href="/about/about_team.htm">Download</a></td>		
+	    <td>Train Dataset Images</td>
+	    <td>train_imges.zip</td>
+	    <td>4992</td>
+	    <td>344MB</td>
+	    <td><a href="https://drive.google.com/file/d/17TfDQ4ciGPPuEgF-WV0xanaw2uVr-pmr/view">Download</a></td>		
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
-	    <td>Training Dataset for SVM</td>
-	    <td>File_SVM</td>
-	    <td>6390</td>
-	    <td>361MB</td>
-	    <td><a href="/about/about_team.htm">Download</a></td>
+	    <td>Train Dataset Labels</td>
+	    <td>train_lables.zip</td>
+	    <td>4992</td>
+	    <td>936KB</td>
+	    <td><a href="https://drive.google.com/u/0/uc?id=12gJUK5fBS1dbdiM5DwzFVmOadVgWeax6&export=download">Download</a></td>
 	</tr><!-- 두번째 줄 끝 -->
 	<tr><!-- 세번째 줄 시작 -->
 	    <td>Training Dataset for SVM</td>
-	    <td>File_SVM</td>
-	    <td>6390</td>
-	    <td>361MB</td>
-	    <td><a href="/about/about_team.htm">Download</a></td>
+	    <td>train_images_SVM_zip</td>
+	    <td>360</td>
+	    <td>2.9MB</td>
+	    <td><a href="https://drive.google.com/file/d/1Z9NNurjf05axl6JDVbO7iouO_-JTg5vD/view">Download</a></td>
 	</tr><!-- 세번째 줄 끝 -->
- 	<tr><!-- 네번째 줄 시작 -->
+	<tr><!-- 네번째 줄 시작 -->
+	    <td>Test Dataset Images</td>
+	    <td>test_images.zip</td>
+	    <td>1479</td>
+	    <td>121MB</td>
+	    <td><a href="/about/about_team.htm">Download</a></td>
+	</tr><!-- 네번째 줄 끝 -->
+ 	<tr><!-- 다섯번째 줄 시작 -->
 	    <td>Training Dataset for SVM</td>
 	    <td>File_SVM</td>
 	    <td>6390</td>
 	    <td>361MB</td>
 	    <td><a href="/about/about_team.htm">Download</a></td>
-	</tr><!-- 네번째 줄 끝 -->
+	</tr><!-- 다섯번째 줄 끝 -->
 </table>
 
 ## 4) Papers
